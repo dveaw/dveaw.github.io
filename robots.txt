@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dveaw.github.io/oqc/sitemap.oqc.gz
